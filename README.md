@@ -16,10 +16,10 @@
 **背景**：针对零售行业历史销售数据，构建机器学习模型优化库存决策  
 **技术**：Python, Time Series, Feature Engineering  
 **亮点**：产出包含项目分析、数据清洗流程、模型对比分析、预测结果完整技术报告
-👉 [查看项目](./supermarket-sales-forecast/)
+
 
 ### 2. 天气预测与运营风险评估
 **背景**：构建多变量预测模型，模拟不确定环境下的商业决策支持  
 **技术**：Python, Random Forest, Cross-validation, Deeplearning
 **亮点**：产出包含视觉数据特征呈现与视觉模型效果对比，锻炼结构化呈现复杂分析结果的能力
-👉 [查看项目](./weather-prediction/)
+
